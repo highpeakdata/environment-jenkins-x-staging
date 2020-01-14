@@ -9,4 +9,4 @@ dependencies:
   version: 2.3.114
 - name: hpdconnect
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.150
+  version: 0.0.151
